@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello! :sparkles:
+Welcome to my profile! 💡 
 
-<!--
-**The-Annley/The-Annley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mainly me, `Frontend` developer
+<br>
+Technologies that I study:
+> + Sass
+> + BEM methodology
+> + CSS
+> + JavaScript
 
-Here are some ideas to get you started:
+<details>
+  <summary>:speech_balloon: Discord:</summary>
+    <hr>
+    <a href="https://discord.com/users/1061561749704282162">
+    <img src="https://lanyard.cnrad.dev/api/1061561749704282162?hideTimestamp=true&idleMessage=+Hello..." />
+    </a>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:star: GitHub Stats:</summary>
+    <hr>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=The-Annley&show_icons=true&theme=github_dark&border_radius=25">
+    </a>
+
+</details>
