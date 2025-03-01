@@ -1,7 +1,7 @@
 # Hello! :sparkles:
 Welcome to my profile! 💡 
 
-I'm junior(not commercial) `Frontend` developer
+I'm an aspiring `Frontend` developer
 <br>
 Technologies that I study:
 > + Sass
